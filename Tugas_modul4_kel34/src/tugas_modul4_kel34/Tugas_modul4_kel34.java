@@ -18,9 +18,9 @@ public class Tugas_modul4_kel34 {
     }
     static void metode_bayar(){
         System.out.println("===================================================");
-        System.out.println("Segera proses pembayaran anda, untuk mencetak tiket");
-        System.out.println("Dapat melalui E-Banking,Kartu Kredit,ATM,Alfamarett");
-        System.out.println("Cek SMS/email anda untuk melihat kode dan link pembayaran ");
+        System.out.println("Segera proses pembayaran Anda, untuk mencetak tiket");
+        System.out.println("Pembayaran dapat melalui E-Banking,Kartu Kredit,ATM,Alfamarett,Indomarett");
+        System.out.println("Cek SMS/email Anda untuk melihat kode dan link pembayaran ");
         System.out.println("===================================================");
     }
     public static void main(String[] args) {
@@ -28,13 +28,13 @@ public class Tugas_modul4_kel34 {
         Scanner in = new Scanner(System.in);
         tampil();
         
-        System.out.print("Masukkan nama anda: ");
+        System.out.print("Masukkan nama Anda: ");
         String nama = in.next();
-        System.out.print("Masukkan email anda: ");
+        System.out.print("Masukkan email Anda: ");
         String email = in.next();
         System.out.println();
         
-        String tiket[][] = {{" ","Bandung", "Jakarta", "Surabaya", "Pontianak", "Pulai Bali"},{" ","100000", "150000", "100000", "200000", "250000"}};
+        String tiket[][] = {{" ","Bandung", "Jakarta", "Surabaya", "Pontianak", "Pulau Bali"},{" ","100000", "150000", "100000", "200000", "250000"}};
         System.out.println("Daftar Tiket Tujuan - Harga Tiket");
         
         for(int i=1 ;i < tiket[0].length;i++){
@@ -79,6 +79,7 @@ public class Tugas_modul4_kel34 {
                 default:
                     System.out.println("Tidak ada dalam pilihan\n");
                     break;  
+                System.out.println ("Terimakasih sudah menggunakan jasa kami, semoga perjalanan Anda menyenangkan"
             }
         }
     }
