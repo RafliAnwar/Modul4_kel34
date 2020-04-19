@@ -1,0 +1,26 @@
+D:\Modul4_kelompok34\Percobaan C#\modul4_kelompok34\modul4_kelompok34\bin\Debug\netcoreapp3.1\modul4_kelompok34.exe
+D:\Modul4_kelompok34\Percobaan C#\modul4_kelompok34\modul4_kelompok34\bin\Debug\netcoreapp3.1\modul4_kelompok34.deps.json
+D:\Modul4_kelompok34\Percobaan C#\modul4_kelompok34\modul4_kelompok34\bin\Debug\netcoreapp3.1\modul4_kelompok34.runtimeconfig.json
+D:\Modul4_kelompok34\Percobaan C#\modul4_kelompok34\modul4_kelompok34\bin\Debug\netcoreapp3.1\modul4_kelompok34.runtimeconfig.dev.json
+D:\Modul4_kelompok34\Percobaan C#\modul4_kelompok34\modul4_kelompok34\bin\Debug\netcoreapp3.1\modul4_kelompok34.dll
+D:\Modul4_kelompok34\Percobaan C#\modul4_kelompok34\modul4_kelompok34\bin\Debug\netcoreapp3.1\modul4_kelompok34.pdb
+D:\Modul4_kelompok34\Percobaan C#\modul4_kelompok34\modul4_kelompok34\obj\Debug\netcoreapp3.1\modul4_kelompok34.csprojAssemblyReference.cache
+D:\Modul4_kelompok34\Percobaan C#\modul4_kelompok34\modul4_kelompok34\obj\Debug\netcoreapp3.1\modul4_kelompok34.csproj.CoreCompileInputs.cache
+D:\Modul4_kelompok34\Percobaan C#\modul4_kelompok34\modul4_kelompok34\obj\Debug\netcoreapp3.1\modul4_kelompok34.AssemblyInfoInputs.cache
+D:\Modul4_kelompok34\Percobaan C#\modul4_kelompok34\modul4_kelompok34\obj\Debug\netcoreapp3.1\modul4_kelompok34.AssemblyInfo.cs
+D:\Modul4_kelompok34\Percobaan C#\modul4_kelompok34\modul4_kelompok34\obj\Debug\netcoreapp3.1\modul4_kelompok34.dll
+D:\Modul4_kelompok34\Percobaan C#\modul4_kelompok34\modul4_kelompok34\obj\Debug\netcoreapp3.1\modul4_kelompok34.pdb
+D:\Modul4_kelompok34\Percobaan C#\modul4_kelompok34\modul4_kelompok34\obj\Debug\netcoreapp3.1\modul4_kelompok34.genruntimeconfig.cache
+D:\PRAKTIKUM DKP\Modul4_kel34\Percobaan C#\modul4_kelompok34\modul4_kelompok34\bin\Debug\netcoreapp3.1\modul4_kelompok34.exe
+D:\PRAKTIKUM DKP\Modul4_kel34\Percobaan C#\modul4_kelompok34\modul4_kelompok34\bin\Debug\netcoreapp3.1\modul4_kelompok34.deps.json
+D:\PRAKTIKUM DKP\Modul4_kel34\Percobaan C#\modul4_kelompok34\modul4_kelompok34\bin\Debug\netcoreapp3.1\modul4_kelompok34.runtimeconfig.json
+D:\PRAKTIKUM DKP\Modul4_kel34\Percobaan C#\modul4_kelompok34\modul4_kelompok34\bin\Debug\netcoreapp3.1\modul4_kelompok34.runtimeconfig.dev.json
+D:\PRAKTIKUM DKP\Modul4_kel34\Percobaan C#\modul4_kelompok34\modul4_kelompok34\bin\Debug\netcoreapp3.1\modul4_kelompok34.dll
+D:\PRAKTIKUM DKP\Modul4_kel34\Percobaan C#\modul4_kelompok34\modul4_kelompok34\bin\Debug\netcoreapp3.1\modul4_kelompok34.pdb
+D:\PRAKTIKUM DKP\Modul4_kel34\Percobaan C#\modul4_kelompok34\modul4_kelompok34\obj\Debug\netcoreapp3.1\modul4_kelompok34.csprojAssemblyReference.cache
+D:\PRAKTIKUM DKP\Modul4_kel34\Percobaan C#\modul4_kelompok34\modul4_kelompok34\obj\Debug\netcoreapp3.1\modul4_kelompok34.csproj.CoreCompileInputs.cache
+D:\PRAKTIKUM DKP\Modul4_kel34\Percobaan C#\modul4_kelompok34\modul4_kelompok34\obj\Debug\netcoreapp3.1\modul4_kelompok34.AssemblyInfoInputs.cache
+D:\PRAKTIKUM DKP\Modul4_kel34\Percobaan C#\modul4_kelompok34\modul4_kelompok34\obj\Debug\netcoreapp3.1\modul4_kelompok34.AssemblyInfo.cs
+D:\PRAKTIKUM DKP\Modul4_kel34\Percobaan C#\modul4_kelompok34\modul4_kelompok34\obj\Debug\netcoreapp3.1\modul4_kelompok34.dll
+D:\PRAKTIKUM DKP\Modul4_kel34\Percobaan C#\modul4_kelompok34\modul4_kelompok34\obj\Debug\netcoreapp3.1\modul4_kelompok34.pdb
+D:\PRAKTIKUM DKP\Modul4_kel34\Percobaan C#\modul4_kelompok34\modul4_kelompok34\obj\Debug\netcoreapp3.1\modul4_kelompok34.genruntimeconfig.cache
