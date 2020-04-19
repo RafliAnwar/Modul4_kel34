@@ -48,27 +48,27 @@ public class Tugas_modul4_kel34 {
             int kode = in.nextInt();    
             switch (kode){
                 case(1):
-                    objek.beli_tiket(1000000);
+                    objek.beli_tiket(100000);
                     metode_bayar();
                     objek.akhir();
                     break;
                 case(2):
-                    objek.beli_tiket(1500000);
+                    objek.beli_tiket(150000);
                     metode_bayar();
                     objek.akhir();
                     break;
                 case(3):
-                    objek.beli_tiket(1000000);
+                    objek.beli_tiket(100000);
                     metode_bayar();
                     objek.akhir();
                     break;
                 case(4):
-                    objek.beli_tiket(2000000);
+                    objek.beli_tiket(200000);
                     metode_bayar();
                     objek.akhir();
                     break;
                 case(5):
-                    objek.beli_tiket(2500000);
+                    objek.beli_tiket(250000);
                     metode_bayar();
                     objek.akhir();
                     break;
